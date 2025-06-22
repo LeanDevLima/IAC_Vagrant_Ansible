@@ -1,5 +1,9 @@
 # Registro de Comandos e Resultados - Vagrant + Ansible + GitLab ✅
 
+## Requisitos
+
+<img src="requisitos.png">
+
 ## Clonando o repositório correto via SSH
 
 ```bash
